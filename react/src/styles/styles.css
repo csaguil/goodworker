@@ -1,0 +1,15 @@
+.Milestone-Tracker {
+}
+
+.Milestone {
+    padding: 10px;
+    text-align: left;
+    margin-left: 25px;
+    font-size: 20px;
+    border-width: 1px;
+    border-color: black;
+}
+
+.Subtask {
+    margin-left: 45px;
+}
